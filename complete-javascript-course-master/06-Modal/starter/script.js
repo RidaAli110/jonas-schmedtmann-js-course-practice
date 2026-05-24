@@ -1,4 +1,6 @@
 'use strict';
+// My practice code written while following Jonas Schmedtmann's JavaScript course
+
 // getting the page elements we need
 const modal = document.querySelector('.modal');
 const overlay = document.querySelector('.overlay');

@@ -1,4 +1,6 @@
 'use strict';
+// My practice code written while following Jonas Schmedtmann's JavaScript course
+
 // selecting elements
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
