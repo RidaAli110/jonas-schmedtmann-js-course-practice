@@ -1,14 +1,11 @@
 ## Jonas Schmedtmann JavaScript Course Practice.
 
-This repository contains my learning progress, exercises, notes, and practice projects while following Jonas Schmedtmann's JavaScript course.
+JavaScript Learning Repository
 
-Some starter files, project structures, HTML, CSS, assets, and portions of JavaScript code were provided as part of the course materials.
+This repository contains my JavaScript learning progress, exercises, notes, and practice projects completed while studying JavaScript.
 
-The purpose of this repository is to practice JavaScript concepts, improve problem-solving skills, and track my learning journey throughout the course.
+The work in this repository was primarily completed while following Jonas Schmedtmann's JavaScript course. Partway through my learning journey, I transitioned to a different learning resource to better match my learning style and continue progressing toward my web development goals.
 
-## About The Code
+Some starter files, project structures, assets, HTML, CSS, and portions of code were provided as part of the course materials. My contributions include completing exercises, implementing JavaScript functionality, solving coding challenges, and applying the concepts learned throughout the course.
 
-This repository contains my JavaScript practice work and solutions completed while following Jonas Schmedtmann's JavaScript course.
-
-Some starter files, project structures, assets, HTML, CSS, and portions of code were provided as part of the course materials.
-This repository is for educational and practice purposes only.
+This repository serves as a record of my learning journey and growth as a developer and is intended for educational and practice purposes.
